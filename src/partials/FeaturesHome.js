@@ -14,7 +14,7 @@ function FeaturesHome() {
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up" data-aos-anchor="[data-aos-id-features-home]">
                 <div className="relative">
-                  <img className="md:max-w-none" src={require('../images/features-02-image').default} width="1140" height="520" alt="Features illustration" />
+                  <img className="md:max-w-none" src={require('../images/features-02-image.png').default} width="1140" height="520" alt="Features illustration" />
                   <svg className="absolute inset-0 max-w-full mx-auto md:max-w-none h-auto" width="540" height="520" viewBox="0 0 540 520" xmlns="http://www.w3.org/2000/svg">
                     <g className="fill-current text-purple-600">
                       <circle className="pulse" cx="270" cy="260" r="64" />
