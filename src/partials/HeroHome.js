@@ -31,7 +31,7 @@ function HeroHome() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Request Cloud Infrastructure on BAT Self-Service!</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-blue-1000 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="">Start Demo</a>
+                <a className="btn text-white bg-blue-1000 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://prod.d265a2qp0mp71w.amplifyapp.com/">Start Demo</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
                 <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://bat.sharepoint.com/sites/CloudAutomationPublic/SitePages/Cloud-Automation(1).aspx">Learn more</a>
