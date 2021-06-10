@@ -42,7 +42,7 @@ function HeroHome() {
           {/* Hero image */}
           <div>
             <div className="relative flex justify-center items-center" data-aos="fade-up" data-aos-delay="200">
-              <img className="mx-auto" src={require('../images/cloud14.jpg').default} width="1024" height="504" alt="Hero" />
+              <img className="mx-auto" src={require('../images/cloud14.jpg').default} width="724" height="404" alt="Hero" />
               <a className="absolute group" href="#0" onClick={(e) => { e.preventDefault(); e.stopPropagation(); setVideoModalOpen(true); }} aria-controls="modal">
                  
               </a>
